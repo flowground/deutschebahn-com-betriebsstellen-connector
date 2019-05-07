@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "abbrev": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}
